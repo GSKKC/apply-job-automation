@@ -1,0 +1,14 @@
+Dear Hiring Manager at Cognizant,
+
+I am writing to express my interest in the Dot Net Developer position at your esteemed organization, as advertised on LinkedIn. As an Enterprise Applications Specialist with 5+ years of experience in Sitecore, .NET, SXA, and Content Hub, I am confident that my skills and experience make me a strong fit for this role.
+
+Currently, I am working at NTT DATA IPS, where I have honed my skills in Dot Net development and Sitecore. I have been instrumental in driving the development of complex web applications using .NET technologies, and have successfully implemented Sitecore solutions that meet business requirements. My proficiency extends to SXA and Content Hub, which I have used extensively to develop scalable and high-performance websites.
+
+I am particularly excited about Cognizant's focus on Dot Net development, as it aligns with my passion for creating innovative solutions using cutting-edge technologies. My expertise includes Docker, Apache Solr, WinForms, Web API, React, Node.js, Azure, AWS, Git, Jenkins, JS, and SCSS, which I have used to build robust and reliable applications.
+
+I am open to relocating, remote, or hybrid arrangements as per your preference. Please find my LinkedIn profile for a comprehensive overview of my professional background: [LinkedIn Profile](https://www.linkedin.com/in/krishna-gupta-444778122/)
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my skills and experiences can contribute to your team's success at Cognizant.
+
+Best Regards,
+Shri Krishna Gupta
